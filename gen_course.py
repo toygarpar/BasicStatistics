@@ -140,7 +140,7 @@ for idx, post in enumerate(data["posts"]):
 </head>
 <body class='font-sans p-6'>
     <div class='max-w-3xl mx-auto'>
-        <a href='../index.html' class='block mb-4'>← Ders Listesine Geri Dön</a>
+        <a href='../index.html' class='block mb-4'>← Eğitim Listesine Geri Dön</a>
         <h1 class='text-3xl font-bold mt-4'>{post['title']}</h1>
         <p class='text-sm text-gray-400 mb-4'>{post['date']}</p>
         {tags_html}
@@ -157,7 +157,7 @@ for idx, post in enumerate(data["posts"]):
             <p class='text-sm text-gray-400'>{post['date']}</p>
             <p class='mb-2'>{post['summary']}</p>
             {tags_html}
-            <a href='{html_file}' class='block mt-1'>Derse Git →</a>
+            <a href='{html_file}' class='block mt-1'>Eğitime Git →</a>
         </div>
 """
 
