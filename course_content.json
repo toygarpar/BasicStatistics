@@ -1,0 +1,196 @@
+{
+  "site_title": "Temel İstatistik",
+  "author": "toygarpar",
+  "intro": "Temel İstatistik Eğitimi",
+  "posts": [
+    {
+      "title": "İstatiksel Düşünce",
+      "date": "2025-05-16",
+      "summary": "İstatiksel düşünce biçimi, sadece sayılarla değil, aynı zamanda anlam çıkararak, mantıkla ve öngörü ile düşünerek karar almanıza yardımcı olur.",
+      "post": "posts/01-istatiksel.ipynb",
+      "tags": ["istatistik", "veri bilimi", "veri analiz"]
+    },
+    {
+      "title": "Örneklem",
+      "date": "2025-05-17",
+      "summary": "Örneklem kavramı, anakütleden nasıl temsili örnekler alınır ve bunların analizi hakkında bilgi verir.",
+      "post": "posts/02-orneklem.ipynb",
+      "tags": ["örneklem", "istatistik", "veri toplama"]
+    },
+    {
+      "title": "Gözlem Birimi",
+      "date": "2025-05-17",
+      "summary": "Veri toplama sürecinde gözlem birimleri nelerdir ve bunların önemini açıklar.",
+      "post": "posts/03-gozlembirimi.ipynb",
+      "tags": ["gözlem", "veri birimi", "ölçüm"]
+    },
+    {
+      "title": "Parametre ve İstatistik",
+      "date": "2025-05-17",
+      "summary": "Anakütle parametresi ile örneklem istatistiği arasındaki farkları anlatır.",
+      "post": "posts/04-parametre.ipynb",
+      "tags": ["parametre", "istatistik", "anakütle"]
+    },
+    {
+      "title": "Değişkenler",
+      "date": "2025-05-17",
+      "summary": "Veri türleri ve değişken sınıflandırmaları üzerine giriş seviyesinde açıklama.",
+      "post": "posts/05-degiskenler.ipynb",
+      "tags": ["değişken", "veri türü", "ölçek"]
+    },
+    {
+      "title": "Ölçek Türleri",
+      "date": "2025-05-17",
+      "summary": "Nominal, ordinal, aralık ve oran ölçekleriyle ölçümler hakkında detaylı bilgi.",
+      "post": "posts/06-olcekturleri.ipynb",
+      "tags": ["ölçek", "ölçme", "istatistik"]
+    },
+    {
+      "title": "Aritmetik Ortalama",
+      "date": "2025-05-17",
+      "summary": "Merkezi eğilim ölçülerinden aritmetik ortalama ve kullanım alanları.",
+      "post": "posts/07-aritmetikortalama.ipynb",
+      "tags": ["ortalama", "merkezi eğilim", "istatistik"]
+    },
+    {
+      "title": "Frekans Serileri",
+      "date": "2025-05-17",
+      "summary": "Verilerin gruplandırılması ve frekans dağılımlarıyla gösterimi.",
+      "post": "posts/08-frekansserisi.ipynb",
+      "tags": ["frekans", "dağılım", "veri analizi"]
+    },
+    {
+      "title": "Medyan",
+      "date": "2025-05-17",
+      "summary": "Sıralanmış veri setinin orta noktası olan medyanın tanımı ve kullanımı.",
+      "post": "posts/09-medyan.ipynb",
+      "tags": ["medyan", "merkezi eğilim", "istatistik"]
+    },
+    {
+      "title": "Mod",
+      "date": "2025-05-17",
+      "summary": "En çok tekrar eden değerin merkezi eğilim ölçüsü olarak kullanımı.",
+      "post": "posts/10-mod.ipynb",
+      "tags": ["mod", "tekrar", "veri analizi"]
+    },
+    {
+      "title": "Kartiller",
+      "date": "2025-05-17",
+      "summary": "Veri setinin dört eşit parçaya bölünmesi ve kartillerin belirlenmesi.",
+      "post": "posts/11-kartiller.ipynb",
+      "tags": ["kartiller", "dağılım", "çeyrek değerler"]
+    },
+    {
+      "title": "Değişim Aralığı",
+      "date": "2025-05-17",
+      "summary": "Basitçe en büyük ve en küçük değer arasındaki farkı ifade eder.",
+      "post": "posts/12-degisimaraligi.ipynb",
+      "tags": ["değişim aralığı", "sapma", "analiz"]
+    },
+    {
+      "title": "Standart Sapma",
+      "date": "2025-05-17",
+      "summary": "Verilerin ortalamadan ne kadar saptığını gösteren standart sapma ölçüsü.",
+      "post": "posts/13-standartsapma.ipynb",
+      "tags": ["sapma", "varyasyon", "istatistik"]
+    },
+    {
+      "title": "Varyans",
+      "date": "2025-05-17",
+      "summary": "Standart sapmanın karesi olan varyans ve kullanım amacı.",
+      "post": "posts/14-varyans.ipynb",
+      "tags": ["varyans", "sapma", "veri analizi"]
+    },
+    {
+      "title": "Çarpıklık",
+      "date": "2025-05-17",
+      "summary": "Dağılımın simetri durumu olan çarpıklık ölçüsünü açıklar.",
+      "post": "posts/15-carpiklik.ipynb",
+      "tags": ["çarpıklık", "simetri", "dağılım"]
+    },
+    {
+      "title": "Kurtosis",
+      "date": "2025-05-17",
+      "summary": "Dağılımın sivriliğini veya düzleşmişliğini ölçen kurtosis kavramı.",
+      "post": "posts/16-kurtosis.ipynb",
+      "tags": ["kurtosis", "sivrilik", "dağılım"]
+    },
+    {
+      "title": "Güven Aralıkları",
+      "date": "2025-05-17",
+      "summary": "Bir parametrenin gerçek değerine yakınlığını yansıtan güven aralıkları konusunu işler.",
+      "post": "posts/17-guvenaraliklari.ipynb",
+      "tags": ["güven aralığı", "tahmin", "istatistik"]
+    },
+    {
+      "title": "Hipotez Testleri",
+      "date": "2025-05-17",
+      "summary": "İstatistiksel hipotez testlerinin temelleri ve uygulamaları.",
+      "post": "posts/18-hipoteztestleri.ipynb",
+      "tags": ["hipotez", "test", "karar verme"]
+    },
+    {
+      "title": "Korelasyon",
+      "date": "2025-05-17",
+      "summary": "İki değişken arasındaki doğrusal ilişkiyi ölçen korelasyon kavramı.",
+      "post": "posts/19-korelasyon.ipynb",
+      "tags": ["korelasyon", "ilişki", "regresyon"]
+    },
+    {
+      "title": "Regresyon",
+      "date": "2025-05-17",
+      "summary": "Bağımlı ve bağımsız değişkenler arasında matematiksel model kurma yöntemi.",
+      "post": "posts/20-regresyon.ipynb",
+      "tags": ["regresyon", "modelleme", "tahmin"]
+    },
+    {
+      "title": "Grafik Özeti",
+      "date": "2025-05-17",
+      "summary": "Verilerin görselleştirilmesi için kullanılan temel grafik türleri ve yorumlama.",
+      "post": "posts/21-grafikozet.ipynb",
+      "tags": ["grafik", "görselleştirme", "analiz"]
+    },
+    {
+      "title": "Lineer Cebir Giriş",
+      "date": "2025-05-17",
+      "summary": "Lineer cebire genel giriş: vektörler, skalerler ve temel işlemleri.",
+      "post": "posts/22-lineercebir.ipynb",
+      "tags": ["lineer cebir", "matris", "vektör"]
+    },
+    {
+      "title": "Lineer Denklemler ve Özellikleri",
+      "date": "2025-05-17",
+      "summary": "Lineer denklemler, çözümleri ve özellikleri hakkında temel bilgiler.",
+      "post": "posts/23-lineercebirdenklemozellikleri.ipynb",
+      "tags": ["denklem", "lineer", "çözüm"]
+    },
+    {
+      "title": "Lineer Denklem Sistemleri",
+      "date": "2025-05-17",
+      "summary": "Birden fazla lineer denklemden oluşan sistemlerin çözüm yöntemleri.",
+      "post": "posts/24-lineerdenklemsistemleri.ipynb",
+      "tags": ["denklem sistemi", "lineer cebir", "matris"]
+    },
+    {
+      "title": "Matris Çeşitleri",
+      "date": "2025-05-17",
+      "summary": "Kare, köşegen, birim, üst üçgen gibi matris çeşitlerinin tanıtıldığı bölüm.",
+      "post": "posts/25-matriscesitleri.ipynb",
+      "tags": ["matris", "çeşitler", "lineer cebir"]
+    },
+    {
+      "title": "Matris Terimleri",
+      "date": "2025-05-17",
+      "summary": "Matrislerde satır, sütun, eleman, determinant gibi terimlerin tanımları.",
+      "post": "posts/26-matristerimler.ipynb",
+      "tags": ["matris", "terimler", "istatistik"]
+    },
+    {
+      "title": "Vektörler",
+      "date": "2025-05-17",
+      "summary": "Vektörlerin tanımları, boyutları ve lineer cebirdeki önemi.",
+      "post": "posts/27-vektorler.ipynb",
+      "tags": ["vektör", "boyut", "lineer cebir"]
+    }
+  ]
+}
