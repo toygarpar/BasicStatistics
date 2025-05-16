@@ -29,3 +29,45 @@ Open the notebooks in a Jupyter environment.
 
 Adım adım dersleri takip edin, örnekleri çalıştırın.
 Follow the lessons step by step and run the examples.
+
+
+
+🌟 **Eğitim Materyalinin Öne Çıkan Özellikleri:**
+
+- Jupyter Notebook kullanılarak tam kapsamlı bir temel istatistik müfredatı oluşturuldu.  
+- Karanlık mod destekli, arama yapılabilir otomatik HTML site üretim sistemi geliştirildi — kullanıcı deneyimi ön planda!  
+- Kullanıcıların ister etkileşimli olarak notebook’ları çalıştırabileceği, isterse önceden oluşturulmuş HTML dosyalarını doğrudan gezebileceği bir yapı sunuldu.  
+- Ayrıntılı Markdown açıklamaları ve Python kod örnekleri ile pratik öğrenmeye uygun içerikler hazırlandı.  
+
+---
+
+🧠 **Kimler İçin Uygun?**
+
+- İstatistiğe yeni başlayan öğrenciler  
+- Veri bilimi meraklıları  
+- Veriyi daha iyi anlamak isteyen herkes  
+
+---
+
+Bu kaynak, veriye ve istatistiğe ilgi duyanlar için değerli bir açık eğitim materyali olabilir.  
+Ders içerikleri şimdilik Türkçe olarak sunulmaktadır.
+
+
+
+🌟 Highlights of the Education Material:
+Built a full-fledged introductory statistics curriculum using Jupyter Notebooks.
+Created an automated system to generate a searchable HTML site with dark mode support — UX!
+Made it easy for users to either run notebooks interactively or simply browse pre-rendered HTML files.
+Included detailed Markdown explanations and Python code examples — perfect for hands-on learning.
+
+
+
+
+🧠 It's a Educational Resource for:
+Students starting out in statistics
+Data science enthusiasts
+Anyone who wants to understand data better
+
+
+This could be a valuable open educational resource for those who are interested in Data and Statistics.
+The lessons are in Turkish for now. 
