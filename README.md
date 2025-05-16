@@ -15,9 +15,13 @@ To run the notebooks, you will need:
 - NumPy, Pandas, Matplotlib, SciPy, Seaborn
 
 
+- Or just browse html files with your favorite Internet Browser...
+
+
 
 ## Nasıl Kullanılır? / How to Use?
-Bu repoyu klonlayın veya ZIP olarak indirin.
+Bu repoyu klonlayın veya ZIP olarak indirin. 
+Browserınızda Index.html'ye gidin ve istediğiniz eğitimin linkine tıklayın!
 Clone this repository or download it as ZIP.
 
 Jupyter Notebook ortamında dosyaları açın.
